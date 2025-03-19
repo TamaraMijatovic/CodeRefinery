@@ -1,4 +1,4 @@
-from my_math import power
+from my_math import my_power
 
 def test_power():
-    assert power(3,3)==27
+    assert my_power(3,3)==27

@@ -1,2 +1,2 @@
-def power(a,b):
+def my_power(a,b):
     return a*b
